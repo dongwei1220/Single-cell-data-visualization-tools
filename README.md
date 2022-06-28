@@ -5,7 +5,7 @@ Collection of single-cell data visualization tools from https://github.com/mdozm
 
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene) - An interactive exploratory visualization tool for single-cell transcriptomics data, web and desktop versions. Input - matrix-form datasets, metadata, pre-computed embeddings/clustering. Compatible with Seurat, Scanpy, Bioconductor, scVI [GitHub](https://github.com/chanzuckerberg/cellxgene)
 
-[Megill, Colin, Bruce Martin, Charlotte Weaver, Sidney Bell, Lia Prins, Seve Badajoz, Brian McCandless, et al. "Cellxgene: A Performant, Scalable Exploration Platform for High Dimensional Sparse Matrices" https://doi.org/10.1101/2021.04.05.438318 Preprint. Systems Biology, April 6, 2021.]
+### Megill, Colin, Bruce Martin, Charlotte Weaver, Sidney Bell, Lia Prins, Seve Badajoz, Brian McCandless, et al. "Cellxgene: A Performant, Scalable Exploration Platform for High Dimensional Sparse Matrices" https://doi.org/10.1101/2021.04.05.438318 Preprint. Systems Biology, April 6, 2021.
 
 - iCellR - Single (i) Cell R package (iCellR) is an interactive R package to work with high-throughput single cell sequencing technologies (i.e scRNA-seq, scVDJ-seq and CITE-seq).
 - Khodadadi-Jamayran, Alireza, Joseph Pucella, Hua Zhou, Nicole Doudican, John Carucci, Adriana Heguy, Boris Reizis, and Aristotelis Tsirigos. "ICellR: Combined Coverage Correction and Principal Component Alignment for Batch Alignment in Single-Cell Sequencing Analysis" https://www.biorxiv.org/content/10.1101/2020.03.31.019109v1.full BioRxiv, April 1, 2020
