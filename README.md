@@ -9,7 +9,7 @@ Collection of single-cell data visualization tools from https://github.com/mdozm
 
 - [iCellR](https://github.com/rezakj/iCellR) - Single (i) Cell R package (iCellR) is an interactive R package to work with high-throughput single cell sequencing technologies (i.e scRNA-seq, scVDJ-seq and CITE-seq).
  
-> Khodadadi-Jamayran, Alireza, Joseph Pucella, Hua Zhou, Nicole Doudican, John Carucci, Adriana Heguy, Boris Reizis, and Aristotelis Tsirigos. *"ICellR: Combined Coverage Correction and Principal Component Alignment for Batch Alignment in Single-Cell Sequencing Analysis" *https://www.biorxiv.org/content/10.1101/2020.03.31.019109v1.full BioRxiv, April 1, 2020
+> Khodadadi-Jamayran, Alireza, Joseph Pucella, Hua Zhou, Nicole Doudican, John Carucci, Adriana Heguy, Boris Reizis, and Aristotelis Tsirigos. *"ICellR: Combined Coverage Correction and Principal Component Alignment for Batch Alignment in Single-Cell Sequencing Analysis"* https://www.biorxiv.org/content/10.1101/2020.03.31.019109v1.full BioRxiv, April 1, 2020
 
 - [Cerebro](https://github.com/romanhaa/Cerebro) - interactive scRNA-seq visualization from a Seurat object (v2 or 3), dimensionality reduction, clustering, identification and visualization of marker genes, enriched pathways (EnrichR), signatures (MSigDb), expression of individual genes. [cerebroPrepare](https://github.com/romanhaa/cerebroPrepare) R package saves the Seurat object, to be visualized with [cerebroApp Shiny app](https://github.com/romanhaa/cerebroApp). Standalone and Docker versions are available. [GitHub](https://github.com/romanhaa/Cerebro).
 
@@ -21,11 +21,11 @@ Collection of single-cell data visualization tools from https://github.com/mdozm
 
 - [iSEE](https://github.com/kevinrue/iSEEWorkshop2019) - Shiny app for interactive visualization of SummarizedExperiment scRNA-seq objects. [GitHub](https://github.com/csoneson/iSEE), [RNA-seq blog post](https://www.rna-seqblog.com/isee-an-interactive-shiny-based-graphical-user-interface-for-exploring-data-stored-in-summarizedexperiment-objects/), [Workshop](https://github.com/kevinrue/iSEEWorkshop2019).
 
-> Rue-Albrecht, Kevin, Federico Marini, Charlotte Soneson, and Aaron T.L. Lun. *"ISEE: Interactive SummarizedExperiment Explorer" *https://doi.org/10.12688/f1000research.14966.1 F1000Research 7 (June 14, 2018)
+> Rue-Albrecht, Kevin, Federico Marini, Charlotte Soneson, and Aaron T.L. Lun. *"ISEE: Interactive SummarizedExperiment Explorer"* https://doi.org/10.12688/f1000research.14966.1 F1000Research 7 (June 14, 2018)
 
 - [SPRING](https://github.com/AllonKleinLab/SPRING_dev) - a pipeline for data filtering, normalization and visualization using force-directed layout of k-nearest-neighbor graph. [Web-based](https://kleintools.hms.harvard.edu/tools/spring.html) (10,000 cells max) and [GitHub](https://github.com/AllonKleinLab/SPRING_dev).
 
-> Weinreb, Caleb, Samuel Wolock, and Allon M. Klein. *"SPRING: A Kinetic Interface for Visualizing High Dimensional Single-Cell Expression Data" *https://doi.org/10.1093/bioinformatics/btx792 Bioinformatics (Oxford, England) 34, no. 7 (April 1, 2018)
+> Weinreb, Caleb, Samuel Wolock, and Allon M. Klein. *"SPRING: A Kinetic Interface for Visualizing High Dimensional Single-Cell Expression Data"* https://doi.org/10.1093/bioinformatics/btx792 Bioinformatics (Oxford, England) 34, no. 7 (April 1, 2018)
 
 - [Granatum](http://garmiregroup.org/granatum/app) - web-based scRNA-seq analysis. list of modules, including plate merging and batch-effect removal, outlier-sample removal, gene-expression normalization, imputation, gene filtering, cell clustering, differential gene expression analysis, pathway/ontology enrichment analysis, protein network interaction visualization, and pseudo-time cell series reconstruction. [Twitter](https://twitter.com/GarmireGroup/status/1185269818015940609).
 
